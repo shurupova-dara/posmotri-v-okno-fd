@@ -9,7 +9,6 @@ html {
 }
 
 .page {
-   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +18,7 @@ html {
     color: #fff;
     font-family: "Fira Sans Condensed", sans-serif;
     font-size: 18px;
-    background-color: #1B1919;
+    background-color: #1b1919;
 }
 
 h1,
@@ -58,7 +57,7 @@ ol {
     display: flex;
     align-items: flex-end;
     gap: 30px;
-    width: 1140px;   
+    width: 1140px;
 }
 
 .result__video-container {
@@ -275,7 +274,7 @@ input[type="text"] {
     gap: 30px;
 }
 .content__list-item {
-        padding-right: 3px;
+    padding-right: 3px;
 }
 .content__video-card {
     display: flex;
